@@ -18,3 +18,4 @@
 ### 화면 캡쳐
 * [part1-kubernetes](https://github.com/jhhwang4195/numble-k8s-monitoring/tree/main/images/part1)
 * [part2-ArgoCD](https://github.com/jhhwang4195/numble-k8s-monitoring/tree/main/images/part2)
+* [part3-로그 모니터링](https://github.com/jhhwang4195/numble-k8s-monitoring/tree/main/images/part3)
