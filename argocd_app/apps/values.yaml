@@ -1,0 +1,5 @@
+repoURL: https://github.com/jhhwang4195/numble-k8s-monitoring
+
+apps:
+  - name: nginx
+    namespace: default
