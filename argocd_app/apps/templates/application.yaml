@@ -13,7 +13,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: {{ .name }}
+    path: argocd_app/{{ .name }}
     repoURL: {{ $.Values.repoURL }}
     targetRevision: HEAD
   {{- if .ignoreDifferences }}
